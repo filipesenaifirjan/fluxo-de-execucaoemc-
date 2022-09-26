@@ -1,0 +1,15 @@
+C:\Users\Serratec\Desktop\projetos dev\curso c# Dio\bin\Debug\net6.0\curso c# Dio.exe
+C:\Users\Serratec\Desktop\projetos dev\curso c# Dio\obj\Debug\net6.0\curso c# Dio.csproj.AssemblyReference.cache
+C:\Users\Serratec\Desktop\projetos dev\curso c# Dio\obj\Debug\net6.0\curso c# Dio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serratec\Desktop\projetos dev\curso c# Dio\obj\Debug\net6.0\curso c# Dio.AssemblyInfoInputs.cache
+C:\Users\Serratec\Desktop\projetos dev\curso c# Dio\obj\Debug\net6.0\curso c# Dio.AssemblyInfo.cs
+C:\Users\Serratec\Desktop\projetos dev\curso c# Dio\obj\Debug\net6.0\curso c# Dio.csproj.CoreCompileInputs.cache
+C:\Users\Serratec\Desktop\projetos dev\curso c# Dio\obj\Debug\net6.0\curso c# Dio.dll
+C:\Users\Serratec\Desktop\projetos dev\curso c# Dio\obj\Debug\net6.0\refint\curso c# Dio.dll
+C:\Users\Serratec\Desktop\projetos dev\curso c# Dio\obj\Debug\net6.0\curso c# Dio.pdb
+C:\Users\Serratec\Desktop\projetos dev\curso c# Dio\bin\Debug\net6.0\curso c# Dio.deps.json
+C:\Users\Serratec\Desktop\projetos dev\curso c# Dio\bin\Debug\net6.0\curso c# Dio.runtimeconfig.json
+C:\Users\Serratec\Desktop\projetos dev\curso c# Dio\bin\Debug\net6.0\curso c# Dio.dll
+C:\Users\Serratec\Desktop\projetos dev\curso c# Dio\bin\Debug\net6.0\curso c# Dio.pdb
+C:\Users\Serratec\Desktop\projetos dev\curso c# Dio\obj\Debug\net6.0\curso c# Dio.genruntimeconfig.cache
+C:\Users\Serratec\Desktop\projetos dev\curso c# Dio\obj\Debug\net6.0\ref\curso c# Dio.dll
